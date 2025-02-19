@@ -254,7 +254,7 @@ background-repeat: no-repeat;
     margin: 10px;
     width: 30px;
     height: 30px;
-    background-image: url(Via.png);
+    background-image: url(https://cdn-icons-png.flaticon.com/512/9501/9501970.png);
     background-size: cover;
 
     -webkit-transition: all .3s ease-out;
@@ -272,7 +272,7 @@ background-repeat: no-repeat;
     margin: 10px;
     width: 30px;
     height: 30px;
-    background-image: url(Dc.png);
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4////gOLB44D6nTcsGIo33QHi/zTGd0B2YTiAPpYjHIHNAf/piQk6wGPW8f/rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts/m/SfxBMs5RupswBaACr+P47b/5zlG/5DyzZ/r/+8hNF7vuvP//nn3r0X6JhJ+0ccPrR+/+H7735jw9cf/n5v0D1Nuo5gBxQve06zR0AjoL7b7/+//zjN4bc+ScfaOeA33///k9Yfg4mDw7u/Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII=);
     background-size: cover;
 
     -webkit-transition: all .3s ease-out;
